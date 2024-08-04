@@ -1,16 +1,16 @@
-# THU VPN
+# THU VPN on Ubuntu
 
-This code is used to launch `THU SSLVPN` quickly in a script, skiping the process of typing the password.
+This code is used to launch `THU SSLVPN` on linux device quickly in a script, skiping the process of typing the password.
 
 ## Install
 
-To install the script, you need to install `openconnect` and `expect` first.
+To install the script, you need to install `openconnect` and `expect` first, if you are using `Debian` or `Ubuntu`, you can install them by the following command.
 
 ```bash
 sudo apt install openconnect expect
 ```
 
-Replace the sudo password, thu username and thu password in the script `thu-vpn_launch.sh`.
+Then replace the sudo password, thu username and thu password in the script `thu-vpn_launch.sh`.
 
 ```expect
 set sudo_password "your sudo password"
