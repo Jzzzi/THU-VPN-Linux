@@ -33,3 +33,7 @@ alias thu-vpn="~/path/to/thu-vpn_launch.sh"
 ```
 
 Then you can launch the `THU SSLVPN` by typing `thu-vpn` in the terminal.
+
+## FYI
+
+The other information tsinghua campus network can be found in [Thu Services](https://thu.services/services/)
