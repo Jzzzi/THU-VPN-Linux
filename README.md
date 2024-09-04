@@ -36,4 +36,4 @@ Then you can launch the `THU SSLVPN` by typing `thu-vpn` in the terminal.
 
 ## FYI
 
-The other information tsinghua campus network can be found in [Thu Services](https://thu.services/services/)
+The other information tsinghua campus network can be found in [THU Services](https://thu.services/services/)
